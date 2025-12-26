@@ -2,7 +2,7 @@
 
 🧐 I'm software engineer with 4 years of experience
 
-📚 Right now I'm getting in depth of system design and architecture via book of [Martin Kleppmann](https://martin.kleppmann.com/) "Designing Data-Intensive Applications" 
+📚 Right now I'm getting in depth of system design and architecture with book of [Martin Kleppmann](https://martin.kleppmann.com/) "Designing Data-Intensive Applications" 
 
 🔍 I'm currently looking for a full-time Golang job and ready to collaborate on an opensource projects!
 
